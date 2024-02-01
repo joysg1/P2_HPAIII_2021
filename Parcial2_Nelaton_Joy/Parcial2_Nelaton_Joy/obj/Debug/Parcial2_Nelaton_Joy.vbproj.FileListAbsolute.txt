@@ -1,0 +1,11 @@
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\bin\Debug\Parcial2_Nelaton_Joy.exe.config
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\bin\Debug\Parcial2_Nelaton_Joy.exe
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\bin\Debug\Parcial2_Nelaton_Joy.pdb
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\bin\Debug\Parcial2_Nelaton_Joy.xml
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\obj\Debug\Parcial2_Nelaton_Joy.vbprojResolveAssemblyReference.cache
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\obj\Debug\Parcial2_Nelaton_Joy.Form1.resources
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\obj\Debug\Parcial2_Nelaton_Joy.Resources.resources
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\obj\Debug\Parcial2_Nelaton_Joy.vbproj.GenerateResource.Cache
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\obj\Debug\Parcial2_Nelaton_Joy.exe
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\obj\Debug\Parcial2_Nelaton_Joy.xml
+R:\PROYECTOS VB\Parcial2_Nelaton_Joy\Parcial2_Nelaton_Joy\obj\Debug\Parcial2_Nelaton_Joy.pdb
